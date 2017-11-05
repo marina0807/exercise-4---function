@@ -1,0 +1,9 @@
+.col-xs-4{
+    position: relative;
+}
+
+.cla{
+    position: absolute;
+    top:100px;
+    left:60px;
+}
