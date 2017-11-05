@@ -10,13 +10,7 @@ function addImg(x) {
     }
 }
 function removeImg(y){
-    if(y===italy){
+    
         document.getElementById("p1").innerHTML ="" ; 
     }
-  else  if(y===israel){
-        document.getElementById("p1").innerHTML ="" ; 
-    }
-  else if(y===holland) {
-        document.getElementById("p1").innerHTML ="" ; 
-    }
-}
+  
