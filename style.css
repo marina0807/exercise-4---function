@@ -1,8 +1,8 @@
-div{
+.column{
     position: relative;
 }
 
-#p1,#p2,#p3,#p4,#p5{
+.name_flag{
    position: absolute;
    top:100px;
    left:100px;
